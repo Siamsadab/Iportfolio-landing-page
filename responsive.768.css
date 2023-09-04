@@ -1,0 +1,7 @@
+@media screen and (max-width: 992px){
+    .icon-con{
+    flex: 0 0 auto;
+    width: 75%;
+    margin-left: -15px;
+    }
+}

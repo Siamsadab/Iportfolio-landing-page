@@ -1,0 +1,72 @@
+
+
+@media screen and (max-width: 992px){
+    #main-fact{
+          margin-left: 0px;
+    }   
+    
+   
+}
+
+@media screen and (max-width: 1200px){
+    .side-nav-fixed{
+        display: none;
+    }
+/* About section start  */
+    #main{
+        margin-left: 0px;
+    }
+    .about h1{
+        margin-top: 20px;
+    }
+    #main-fact{
+        margin-left: 00px;
+    }
+    #skill-main{
+        margin-left: 0px;
+    }
+    #resume-main{
+        margin-left: 0px;
+    }
+    #portfolio-sec{
+        margin-left: 0px;
+    }
+    #service-main{
+        margin-left: 0px;
+    }
+    #test-main{
+        margin-left: 0px;
+    }
+    #mob-test{
+        margin-left:0px;
+    }
+    #mob-test{
+        display: block;
+    }
+    #test-main{
+        display: none;
+    }
+    #form-main{
+        margin-left: 0px;
+    }
+    #footer-main-mob{
+        display: block;
+    }
+    #footer-main{
+        z-index: 99;
+        position: fixed;
+        background-color: #040B14;
+        left: 0;
+        bottom: 0;
+        width: 286px;
+        display: none;
+    }
+    .off-formob{
+        display: block;
+        z-index: 99999;
+    }
+}
+
+@media screen and (max-width: 1400px){
+
+}

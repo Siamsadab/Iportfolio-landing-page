@@ -1,0 +1,31 @@
+@media screen and (max-width: 576px){
+    .icon-con{
+        flex: 0 0 auto;
+    width: 75%;
+    margin-left: -20px;
+    }
+    .pad-resum{
+        margin: 0px 10px;
+     } 
+
+     .swiper-wrapper {
+        
+        margin-left: 10px;
+    }
+
+    .port .row{
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+}
+
+@media (max-width:420px){
+
+    .hero-content {
+        min-width: 300px;
+        margin: auto;
+        /* margin: 0px; */
+    }
+    
+}
